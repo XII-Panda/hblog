@@ -2,7 +2,7 @@ baseurl: https://www.gpanda.me/
 languageCode: zh-CN
 theme: hugo-theme-stack
 paginate: 5
-title: 测试
+title: GPanda'S Blog
 
 languages:
     en:
