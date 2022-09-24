@@ -191,7 +191,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/XII-Panda/hblog
           params:
               icon: brand-github
 
